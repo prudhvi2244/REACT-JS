@@ -1,2 +1,7 @@
+# Trainer : Raj Prudhvi ( Oracle Certified )
+
 # REACT-JS
-Contains Notes on React JS and Java Script
+  
+
+# Note 
+In My Sessions I will use vscode for development
