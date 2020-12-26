@@ -1,7 +1,14 @@
 # Trainer : Raj Prudhvi ( Oracle Certified )
 
-# REACT-JS
+# Session : REACT-JS
   
+# Pre-Requisites
+    * HTML5
+    * CSS3
+    * Bootstrap4
+    * Java Script
 
 # Note 
-In My Sessions I will use vscode for development
+    * This notes and examples for my students only
+    * In My Sessions I will use vscode open source editor for development
+    
