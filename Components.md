@@ -58,8 +58,35 @@
 
         ReactDOM.render(<App />, document.querySelector("#root"));
         
-  # Note :
-  * Multiple HTML TAGS have to be enclosed within the div tag.
+# Note :
+* Multiple HTML TAGS have to be enclosed within the div tag.
+  
+# Functional Components Vs Class Components
+# Functionl Components
+ * Simple functions
+ * Use  Functional Components as much as possible
+ * Absence of "this" keyword
+ * Solution without using state
+ * Mainly responsible for UI
+ * Stateless/ Dump /Presentational
+ 
+# Class Components
+
+* More feature fich
+* Maintain their own private data - state
+* Complex UI logic
+* Provide lifecycle hooks
+* Stateful / Smart / Container
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+  
 
 
 
