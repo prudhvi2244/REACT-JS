@@ -4,13 +4,15 @@
 * They are re-usable and can be nested inside other components
 * Components are independent and reusable bits of code. They serve the same purpose as JavaScript functions, but work in 
   isolation and return HTML via a render() function.
+* Each component has several “lifecycle methods” that you can override to run code at particular times in the process.
 
 # There are 2 types of components
 * Stateless Components [ Functional Components ]
 * Stateful Components  [ Class Components ]
 
 # functional Components :
-* Functional components are typically JavaScript functions that return HTML.They can be contained in a .JS OR JSX files.
+* Functional components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
+* They can be contained in a .JS OR JSX files.
 
 # index.js
 
