@@ -3,9 +3,19 @@
 * React is an open-source, front end, JavaScript library for building user interfaces or UI components. It is maintained by Facebook and a community of individual developers and companies.
 * React can be used as a base in the development of single-page or mobile applications
 * React allows us to create reusable UI components
+* React is not a framework
 
-         Official Website : https://reactjs.org/
-         Latest Version : v17.0.1
+# Features of React 
+* Component Based Architecture
+* Reusable Code
+* Reactive is Declarative
+
+         * Tell react what you want and react will build actual UI
+         * React wil handle efficiently updating and rendering of components
+         * DOM updates are handled gracefully in react
+         
+     * Official Website : https://reactjs.org/
+     * Latest Version : v17.0.1
          
 # How to create React Applications in Local Machine
         * Install Node JS
