@@ -13,7 +13,6 @@
 # state
 
     * state is managed within the component
-    * variables declared within function body
     * state can be changed
     * Functional Components : useState Hook
     * Class Components : this.state
@@ -22,33 +21,29 @@
 
         import React, { Component } from 'react'
 
-        export class Message extends Component {
-            constructor(props)
-            {
+        class ClassComponent extends Component {
+            constructor(props) {
                 super(props)
-                this.state={
-                    message:'Welcome Raj'
+            
+                this.state = {
+                    email:'raj.rajeev2244@gmail.com'
                 }
             }
-
-            changeMessage()
-            {
-                this.setState({
-                    message:'Thank You Raj For Subscribing'
-                })
-            }
-
+            
             render() {
                 return (
                     <div>
-                        <h1>{this.state.message}</h1>
-                        <button  onClick={()=>this.changeMessage()} >Subscribe</button>
+                        <h3 style={{color:'red'}}>Welcome To Class Component</h3>
+                        <h4>Name : {this.props.name}</h4>
+                        <h4>City : {this.props.city}</h4>
+                        <h4>Email : {this.state.email}</h4>
                     </div>
                 )
             }
         }
 
-        export default Message
+        export default ClassComponent
+
         
 # Important points on state
 
