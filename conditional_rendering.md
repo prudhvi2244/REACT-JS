@@ -6,7 +6,7 @@
 * Short Circuit Operator
 
 
-# f/else statements
+# If/else statements
 
 # UserGreeting.js
 
