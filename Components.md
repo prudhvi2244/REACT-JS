@@ -10,7 +10,13 @@
 * Stateless Components [ Functional Components ]
 * Stateful Components  [ Class Components ]
 
-# functional Components :
+# Note : User-Defined Components Must Be Capitalized
+
+* React treats components starting with lowercase letters as DOM tags. For example, <div /> represents an HTML div tag, but <Welcome /> represents a component and requires Welcome to be in scope.
+
+
+# Functional Components :
+
 * Functional components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen.
 * They can be contained in a .JS OR JSX files.
 
@@ -33,6 +39,7 @@
         ReactDOM.render(<App1 />, document.querySelector("#root"));
 
 # Class Components 
+
 * Class Components are regular ES6 classes. However, it’s mandatory that they contain a render() method that return html. they can also be contained in .JS OR JSX File.
 
 # index.js
