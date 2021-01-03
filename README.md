@@ -1,14 +1,16 @@
 # Trainer : Raj Prudhvi ( Oracle Certified )
-
+# Training Mode : Virtual and Classroom
 # Session : REACT-JS
-  
-# Pre-Requisites
-    * HTML5
-    * CSS3
-    * Bootstrap4
-    * Java Script
+# Duration : 30 Days [ Daily : 1 Hour]  
+# Editors : VSCODE
 
-# Note 
-    * This notes and examples for my students only
-    * In My Sessions I will use vscode open source editor for development
-    
+# Pre-Requisites
+    * HTML
+    * CSS
+    * Bootstrap
+    * Java Script
+    * ES6
+
+
+# Course Contents
+
