@@ -4,7 +4,7 @@
 
       Step-1 : Generate Project using create-react-app
       Step-2 : Open Command Prompt and Change directory to Project Directory
-      Step-3 : ng start
+      Step-3 : npm start
       Step-4 : open browser window and type http://localhost:3000
      
      
