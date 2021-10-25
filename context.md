@@ -1,0 +1,8 @@
+# Context 
+* Context provides a way to pass data through the component tree without having to pass props down manually
+  at every level
+ 
+ 	* Create the Context
+	* Provide a context value
+	* Consume the context value
+
